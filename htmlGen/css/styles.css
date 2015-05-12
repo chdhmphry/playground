@@ -1,0 +1,21 @@
+body{
+		font-family: sans-serif;
+		margin: 20px;
+		text-align: center;
+}
+h1{
+		font-size: 40px;
+		font-weight: bold;
+}
+h2{
+		font-weight: bold;
+		color: red;
+}
+.post-display{
+		margin-bottom: 20px;
+		text-align: left;
+}
+.editable-content:hover{
+	display: block;
+	box-shadow: 0 0 4px blue;
+}
